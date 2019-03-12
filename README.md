@@ -15,8 +15,8 @@ $ cli
 
 ##템블릿 종류를 선택하세요
  * __선택(html, express)__
- - express type
- - html type
+	 - express type
+	 - html type
 
 ## uninstall
 	npm rm -g 
