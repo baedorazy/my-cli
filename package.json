@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "baedorazy cli",
+  "author": "baedorazy",
   "license": "ISC",
   "bin": {
     "cli": "./command.js"
