@@ -21,6 +21,6 @@
 ## uninstall
 	npm rm -g 
 
-## authors
+## author
 	baedorazy / baedorazy@gmail.com
 
